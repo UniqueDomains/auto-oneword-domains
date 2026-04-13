@@ -78,11 +78,11 @@ print(df.head())
 | chase.auto      | premium   | —         | —             | 66             | 85     | 5      | —             |
 | enterprise.auto | available | $2,950    | —             | 68             | 61     | 10     | namecheap     |
 | Nokia.auto      | premium   | —         | —             | 88             | 84     | 5      | —             |
-| free.auto       | available | $2,950    | —             | 88             | 59     | 4      | namecheap     |
-| sheraton.auto   | premium   | —         | —             | 52             | 84     | 8      | —             |
 | cloud.auto      | available | $2,950    | —             | 70             | 59     | 5      | namecheap     |
-| authentic.auto  | premium   | —         | —             | 76             | 83     | 9      | —             |
+| sheraton.auto   | premium   | —         | —             | 52             | 84     | 8      | —             |
 | ace.auto        | available | $2,950    | —             | 88             | 57     | 3      | namecheap     |
+| authentic.auto  | premium   | —         | —             | 76             | 83     | 9      | —             |
+| free.auto       | available | $2,950    | —             | 88             | 57     | 4      | namecheap     |
 | axle.auto       | premium   | —         | —             | 74             | 83     | 4      | —             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
