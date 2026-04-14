@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .auto one-word domains from Unique
 
 **Public extract:** 9,861 rows · **Live catalog:** 9,861 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/auto`  
 **Best for:** founders, investors, studios
 
@@ -68,16 +68,16 @@ print(df.head())
 | data.auto       | resell    | —         | —             | 70             | 56     | 4      | Go Daddy, LLC |
 | can.auto        | premium   | —         | —             | 68             | 98     | 3      | —             |
 | nationwide.auto | available | $2,950    | —             | 76             | 66     | 10     | namecheap     |
-| ideal.auto      | resell    | —         | —             | 74             | 33     | 5      | Namecheap     |
+| ideal.auto      | resell    | —         | —             | 74             | 34     | 5      | Namecheap     |
 | indeed.auto     | premium   | —         | —             | 94             | 85     | 6      | —             |
 | line.auto       | available | $2,950    | —             | 74             | 65     | 4      | namecheap     |
 | AOL.auto        | premium   | —         | —             | 86             | 85     | 3      | —             |
 | power.auto      | available | $2,950    | —             | 98             | 62     | 5      | namecheap     |
-| swift.auto      | premium   | —         | —             | 68             | 85     | 5      | —             |
-| seventeen.auto  | available | $2,950    | —             | 84             | 62     | 9      | namecheap     |
 | chase.auto      | premium   | —         | —             | 66             | 85     | 5      | —             |
-| enterprise.auto | available | $2,950    | —             | 68             | 61     | 10     | namecheap     |
+| seventeen.auto  | available | $2,950    | —             | 84             | 62     | 9      | namecheap     |
 | Nokia.auto      | premium   | —         | —             | 88             | 84     | 5      | —             |
+| enterprise.auto | available | $2,950    | —             | 68             | 61     | 10     | namecheap     |
+| swift.auto      | premium   | —         | —             | 68             | 84     | 5      | —             |
 | cloud.auto      | available | $2,950    | —             | 70             | 59     | 5      | namecheap     |
 | sheraton.auto   | premium   | —         | —             | 52             | 84     | 8      | —             |
 | ace.auto        | available | $2,950    | —             | 88             | 57     | 3      | namecheap     |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUTO One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUTO One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
