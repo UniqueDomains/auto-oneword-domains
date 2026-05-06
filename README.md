@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .auto one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,856 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,856 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,856 domains · **Median ask:** $2,770.65 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/auto`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| winners.auto       | available | $1,999.99 | $2,199        | 60             | 81     | 7      | namesilo  |
+| Trex.auto          | available | $2,950    | —             | 80             | 24     | 5      | namecheap |
+| girls.auto         | available | $2,950    | —             | 83             | 23     | 5      | namecheap |
 | Chanel.auto        | available | $2,950    | —             | 80             | 77     | 6      | namecheap |
+| geton.auto         | available | $2,950    | —             | 82             | 10     | 6      | namecheap |
+| matcha.auto        | available | $2,950    | —             | 86             | 39     | 6      | namecheap |
+| QandA.auto         | available | $2,950    | —             | 80             | 10     | 7      | namecheap |
+| makeit.auto        | available | $2,950    | —             | 82             | 22     | 7      | namecheap |
+| watches.auto       | available | $2,950    | —             | 84             | 19     | 7      | namecheap |
+| winners.auto       | available | $1,999.99 | $2,199        | 60             | 81     | 7      | namesilo  |
 | makers.auto        | available | $1,999.99 | $2,199        | 62             | 67     | 6      | namesilo  |
 | travelers.auto     | available | $1,999.99 | $2,199        | 58             | 61     | 9      | namesilo  |
 | regions.auto       | available | $2,950    | —             | 64             | 59     | 7      | namecheap |
 | keepthechange.auto | available | $2,950    | —             | 46             | 59     | 15     | namecheap |
 | skills.auto        | available | $2,950    | —             | 58             | 47     | 6      | namecheap |
-| matcha.auto        | available | $2,950    | —             | 86             | 39     | 6      | namecheap |
 | prompts.auto       | available | $1,999.99 | $2,199        | 54             | 39     | 7      | namesilo  |
 | tokens.auto        | available | $1,999.99 | $2,199        | 51             | 36     | 6      | namesilo  |
 | aliens.auto        | available | $1,999.99 | $2,199        | 56             | 35     | 6      | namesilo  |
 | teams.auto         | available | $2,950    | —             | 62             | 32     | 5      | namecheap |
 | William.auto       | available | $2,950    | —             | 74             | 31     | 7      | namecheap |
 | maps.auto          | available | $2,950    | —             | 56             | 31     | 4      | namecheap |
-| solutions.auto     | available | $2,950    | —             | 56             | 31     | 9      | namecheap |
-| videos.auto        | available | $2,950    | —             | 52             | 30     | 6      | namecheap |
-| SanDiego.auto      | available | $1,999.99 | $2,199        | 74             | 29     | 9      | namesilo  |
-| quotes.auto        | available | $2,950    | —             | 58             | 29     | 6      | namecheap |
-| dogs.auto          | available | $2,950    | —             | 76             | 28     | 4      | namecheap |
-| KFC.auto           | available | $2,950    | —             | 74             | 27     | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,856 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,856 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .auto domains. The set spans broad dictionary terms, category words, and sharper brand-style terms such as tips.auto, homes.auto, finals.auto, and jewels.auto. Median asking price is 2,770.65, so price discipline matters when comparing options. For founders, the best choices are clear, memorable words that fit an automotive use case without forcing the meaning. For investors, quality depends on how naturally the word pairs with .auto, how wide the buyer pool may be, and whether the ask leaves room versus likely end-user demand. Be cautious with terms that may create trademark exposure, such as obvious brand references.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- One-word .auto domains only
+- 12,856 domains; median ask 2,770.65
+- Best fits pair naturally with the .auto ending
+- Watch for trademark risk in branded terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUTO One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUTO One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
