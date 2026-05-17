@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .auto one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,857 domains · **Median ask:** $2,770.65 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/auto`  
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | geton.auto         | available | $2,950    | —             | 82             | 10     | 6      | namecheap |
 | matcha.auto        | available | $2,950    | —             | 86             | 39     | 6      | namecheap |
 | QandA.auto         | available | $2,950    | —             | 80             | 10     | 7      | namecheap |
-| makeit.auto        | available | $2,950    | —             | 82             | 22     | 7      | namecheap |
+| makeit.auto        | available | $2,950    | —             | 82             | 21     | 7      | namecheap |
 | winners.auto       | available | $1,999.99 | $2,199        | 60             | 81     | 7      | namesilo  |
 | makers.auto        | available | $1,999.99 | $2,199        | 62             | 67     | 6      | namesilo  |
 | travelers.auto     | available | $1,999.99 | $2,199        | 58             | 61     | 9      | namesilo  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUTO One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUTO One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
