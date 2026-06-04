@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .auto one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,857 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,857 domains · **Median ask:** $2,770.65 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,857 domains · **Median ask:** $2,250.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/auto`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Trex.auto          | available | $2,950    | —             | 80             | 24     | 5      | namecheap |
-| girls.auto         | available | $2,950    | —             | 83             | 23     | 5      | namecheap |
-| Chanel.auto        | available | $2,950    | —             | 80             | 77     | 6      | namecheap |
-| geton.auto         | available | $2,950    | —             | 82             | 10     | 6      | namecheap |
-| matcha.auto        | available | $2,950    | —             | 86             | 39     | 6      | namecheap |
-| QandA.auto         | available | $2,950    | —             | 80             | 10     | 7      | namecheap |
-| makeit.auto        | available | $2,950    | —             | 82             | 21     | 7      | namecheap |
-| winners.auto       | available | $1,999.99 | $2,199        | 60             | 81     | 7      | namesilo  |
-| makers.auto        | available | $1,999.99 | $2,199        | 62             | 67     | 6      | namesilo  |
-| travelers.auto     | available | $1,999.99 | $2,199        | 58             | 61     | 9      | namesilo  |
-| regions.auto       | available | $2,950    | —             | 64             | 59     | 7      | namecheap |
-| keepthechange.auto | available | $2,950    | —             | 46             | 59     | 15     | namecheap |
-| skills.auto        | available | $2,950    | —             | 58             | 47     | 6      | namecheap |
-| prompts.auto       | available | $1,999.99 | $2,199        | 54             | 39     | 7      | namesilo  |
-| tokens.auto        | available | $1,999.99 | $2,199        | 51             | 36     | 6      | namesilo  |
-| aliens.auto        | available | $1,999.99 | $2,199        | 56             | 35     | 6      | namesilo  |
-| teams.auto         | available | $2,950    | —             | 62             | 32     | 5      | namecheap |
-| William.auto       | available | $2,950    | —             | 74             | 31     | 7      | namecheap |
-| maps.auto          | available | $2,950    | —             | 56             | 31     | 4      | namecheap |
-| solutions.auto     | available | $2,950    | —             | 56             | 31     | 9      | namecheap |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| growth.auto      | available | $1,999.99 | $2,199        | 84             | 40     | 6      | namesilo  |
+| ship.auto        | available | $1,999.99 | $2,199        | 90             | 39     | 4      | namesilo  |
+| gummybear.auto   | available | $1,999.99 | $2,199        | 85             | 6      | 10     | namesilo  |
+| independent.auto | available | $2,950    | —             | 88             | 28     | 11     | namecheap |
+| ancestor.auto    | premium   | —         | —             | 90             | 8      | 8      | —         |
+| alligator.auto   | available | $1,999.99 | $2,199        | 106            | 15     | 9      | namesilo  |
+| king.auto        | available | $1,999.99 | $2,199        | 97             | 44     | 4      | namesilo  |
+| teen.auto        | available | $1,999.99 | $2,199        | 104            | 19     | 4      | namesilo  |
+| sixteen.auto     | available | $1,999.99 | $2,199        | 88             | 13     | 7      | namesilo  |
+| asking.auto      | available | $1,999.99 | $2,199        | 86             | 11     | 6      | namesilo  |
+| come.auto        | available | $1,999.99 | $2,199        | 138            | 25     | 4      | namesilo  |
+| romance.auto     | available | $2,950    | —             | 81             | 21     | 7      | namecheap |
+| wise.auto        | available | $1,999.99 | $2,199        | 98             | 73     | 4      | namesilo  |
+| adept.auto       | available | $1,999.99 | $2,199        | 92             | 25     | 5      | namesilo  |
+| relapse.auto     | available | $2,950    | —             | 85             | 8      | 7      | namecheap |
+| using.auto       | available | $1,999.99 | $2,199        | 82             | 8      | 5      | namesilo  |
+| similar.auto     | premium   | —         | —             | 86             | 12     | 7      | —         |
+| toilet.auto      | available | $1,999.99 | $2,199        | 86             | 16     | 6      | namesilo  |
+| traction.auto    | available | $1,999.99 | $2,199        | 90             | 19     | 8      | namesilo  |
+| symbol.auto      | available | $2,950    | —             | 100            | 18     | 6      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUTO One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUTO One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
