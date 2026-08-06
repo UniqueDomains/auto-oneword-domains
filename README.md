@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .auto one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,857 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,857 domains · **Median ask:** $2,250.17 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,857 domains · **Median ask:** $2,215.95 · **High-demand under $2,500:** 55
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/auto`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/auto`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .AUTO one-word domain 
 
 ### Files
 
-- `auto.csv` — public CSV extract (1,000 rows)
-- `auto.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `auto.csv`, public CSV extract (1,000 rows)
+- `auto.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| growth.auto      | available | $1,999.99 | $2,199        | 84             | 40     | 6      | namesilo  |
-| ship.auto        | available | $1,999.99 | $2,199        | 90             | 39     | 4      | namesilo  |
-| gummybear.auto   | available | $1,999.99 | $2,199        | 85             | 6      | 10     | namesilo  |
-| independent.auto | available | $2,950    | —             | 88             | 28     | 11     | namecheap |
-| ancestor.auto    | premium   | —         | —             | 90             | 8      | 8      | —         |
-| alligator.auto   | available | $1,999.99 | $2,199        | 106            | 15     | 9      | namesilo  |
-| king.auto        | available | $1,999.99 | $2,199        | 97             | 44     | 4      | namesilo  |
-| teen.auto        | available | $1,999.99 | $2,199        | 104            | 19     | 4      | namesilo  |
-| sixteen.auto     | available | $1,999.99 | $2,199        | 88             | 13     | 7      | namesilo  |
-| asking.auto      | available | $1,999.99 | $2,199        | 86             | 11     | 6      | namesilo  |
-| come.auto        | available | $1,999.99 | $2,199        | 138            | 25     | 4      | namesilo  |
-| romance.auto     | available | $2,950    | —             | 81             | 21     | 7      | namecheap |
-| wise.auto        | available | $1,999.99 | $2,199        | 98             | 73     | 4      | namesilo  |
-| adept.auto       | available | $1,999.99 | $2,199        | 92             | 25     | 5      | namesilo  |
-| relapse.auto     | available | $2,950    | —             | 85             | 8      | 7      | namecheap |
-| using.auto       | available | $1,999.99 | $2,199        | 82             | 8      | 5      | namesilo  |
-| similar.auto     | premium   | —         | —             | 86             | 12     | 7      | —         |
-| toilet.auto      | available | $1,999.99 | $2,199        | 86             | 16     | 6      | namesilo  |
-| traction.auto    | available | $1,999.99 | $2,199        | 90             | 19     | 8      | namesilo  |
-| symbol.auto      | available | $2,950    | —             | 100            | 18     | 6      | namecheap |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| air.auto  | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo         |
+| data.auto | resell    | —         | —             | medium         | medium | 4      | GoDaddy.com, LLC |
+| and.auto  | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo         |
+| ant.auto  | available | $2,950    | —             | high           | medium | 3      | namecheap        |
+| ate.auto  | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo         |
+| beg.auto  | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo         |
+| cxv.auto  | available | $1,999.99 | $2,199        | low            | low    | 3      | namesilo         |
+| day.auto  | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo         |
+| dig.auto  | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo         |
+| DIY.auto  | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo         |
+| dna.auto  | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo         |
+| dvd.auto  | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo         |
+| gee.auto  | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo         |
+| gun.auto  | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo         |
+| its.auto  | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo         |
+| jan.auto  | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo         |
+| leg.auto  | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo         |
+| liv.auto  | available | $1,999.99 | $2,199        | low            | low    | 3      | namesilo         |
+| man.auto  | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo         |
+| may.auto  | available | $2,950    | —             | high           | low    | 3      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ------------------------------------------ |
 | 1,000-row public sample | 12,857 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 55 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .auto domains. The set spans broad dictionary terms, category words, and sharper brand-style terms such as tips.auto, homes.auto, finals.auto, and jewels.auto. Median asking price is 2,770.65, so price discipline matters when comparing options. For founders, the best choices are clear, memorable words that fit an automotive use case without forcing the meaning. For investors, quality depends on how naturally the word pairs with .auto, how wide the buyer pool may be, and whether the ask leaves room versus likely end-user demand. Be cautious with terms that may create trademark exposure, such as obvious brand references.
+This selection covers one-word .auto domains that are available now, spanning generic terms, brand-like coinages, and short nouns. The median ask sits near $2,216, with most listings priced between $500 and $2,000. A small number of these domains — including show.auto, watch.auto, and motors.auto — carry reference pricing well above their ask, signaling notable spread for buyers comparing cost against demand.
 
-- One-word .auto domains only
-- 12,856 domains; median ask 2,770.65
-- Best fits pair naturally with the .auto ending
-- Watch for trademark risk in branded terms
+- 12,857 available one-word .auto domains, updated daily
+- Median ask near $2,216; most priced $500–$2k
+- Undervalued picks: show.auto, watch.auto, motors.auto
+- 8,544 names flagged easy to spell for brandability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUTO One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUTO One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
