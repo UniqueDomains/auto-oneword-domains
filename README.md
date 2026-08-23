@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .auto one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,826 domains · **Median ask:** $2,151.21 · **High-demand under $2,500:** 65
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-23
 **Canonical page:** `https://unique.domains/domains/tld/auto`
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,6 @@ print(df.head())
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | great.auto | available | $1,999.99 | $2,199        | high           | low    | 5      | namesilo         |
-| come.auto  | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo         |
 | air.auto   | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo         |
 | data.auto  | resell    | —         | —             | medium         | medium | 4      | GoDaddy.com, LLC |
 | and.auto   | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo         |
@@ -84,6 +83,7 @@ print(df.head())
 | its.auto   | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo         |
 | jan.auto   | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo         |
 | leg.auto   | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo         |
+| liv.auto   | available | $1,999.99 | $2,199        | low            | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUTO One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUTO One-Word Domains*. Version 2026-08-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
