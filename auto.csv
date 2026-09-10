@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 d6240224-bcd2-4f57-8a8a-d9966aa45d51,department.auto,available,1999.99,2199,high,low,10,namesilo,,
 4bfc052f-1ad8-4e6a-bc98-4d48aadc4510,player.auto,available,1999.99,2199,medium,low,6,namesilo,,
-b052f987-8a70-448c-abb3-b8f185a9d2dc,growth.auto,available,1999.99,2199,high,medium,6,namesilo,,
+b052f987-8a70-448c-abb3-b8f185a9d2dc,growth.auto,available,1999.99,2199,medium,medium,6,namesilo,,
 7cc1a891-42ba-48b9-99d5-3a1a24eb4e00,yesandno.auto,available,1999.99,2199,low,low,10,namesilo,,
 524a7e6f-e8c9-4532-a1e6-df788908c4cd,ship.auto,available,1999.99,2199,high,low,4,namesilo,,
 c925dc3f-b341-4eb2-b97c-d30b0597b302,burn.auto,available,1999.99,2199,high,low,4,namesilo,,
@@ -946,7 +946,7 @@ d7a03a26-bbf1-4634-a407-4d0f989205ed,streamer.auto,available,1999.99,2199,low,lo
 e501d3d1-594c-4f22-9646-d4afb78fef03,liv.auto,available,1999.99,2199,low,low,3,namesilo,,
 40837818-edd5-46cd-be98-a7b5280172ff,berlin.auto,available,1999.99,2199,high,low,6,namesilo,,
 071f5c59-9706-4627-9ba7-3b220e0bef25,shiny.auto,available,1999.99,2199,high,low,5,namesilo,,
-81f92a17-bb39-46dc-bd0f-834f3da78f5a,environment.auto,available,1999.99,2199,high,low,11,namesilo,,
+81f92a17-bb39-46dc-bd0f-834f3da78f5a,environment.auto,available,1999.99,2199,medium,low,11,namesilo,,
 5488e1cb-434f-4dc6-bc56-92edca6502b0,platter.auto,available,1999.99,2199,medium,low,7,namesilo,,
 9fcd109d-4db1-428a-878a-5eadeb3a4704,nonstop.auto,available,2950,,high,low,7,namecheap,,
 069957b2-1db5-43f6-9669-0370e129fbd5,baldfaced.auto,available,1999.99,2199,low,low,10,namesilo,,
