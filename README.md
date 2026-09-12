@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .auto one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,135 domains · **Median ask:** $2,123.36 · **High-demand under $2,500:** 77
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/auto`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| air.auto | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
-| and.auto | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
-| ant.auto | available | $2,950    | —             | high           | medium | 3      | namecheap |
-| ass.auto | available | $1,999.99 | $2,199        | low            | low    | 3      | namesilo  |
-| ate.auto | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
-| beg.auto | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
-| cxv.auto | available | $1,999.99 | $2,199        | low            | low    | 3      | namesilo  |
-| day.auto | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
-| dig.auto | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
-| DIY.auto | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
-| dna.auto | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
-| dvd.auto | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
-| gee.auto | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
-| gun.auto | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
-| its.auto | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
-| jan.auto | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
-| leg.auto | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
-| liv.auto | available | $1,999.99 | $2,199        | low            | low    | 3      | namesilo  |
-| man.auto | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
-| may.auto | available | $2,950    | —             | high           | low    | 3      | namecheap |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| great.auto  | available | $1,999.99 | $2,199        | high           | low    | 5      | namesilo  |
+| come.auto   | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo  |
+| simple.auto | available | $1,999.99 | $2,199        | high           | medium | 6      | namesilo  |
+| time.auto   | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo  |
+| air.auto    | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
+| and.auto    | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
+| ant.auto    | available | $2,950    | —             | high           | medium | 3      | namecheap |
+| ass.auto    | available | $1,999.99 | $2,199        | low            | low    | 3      | namesilo  |
+| ate.auto    | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| beg.auto    | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
+| cxv.auto    | available | $1,999.99 | $2,199        | low            | low    | 3      | namesilo  |
+| day.auto    | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| dig.auto    | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| DIY.auto    | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| dna.auto    | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
+| dvd.auto    | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| gee.auto    | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
+| gun.auto    | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
+| its.auto    | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
+| jan.auto    | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUTO One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUTO One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
